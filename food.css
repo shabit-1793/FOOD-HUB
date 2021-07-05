@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first{
+    height: 700;
+    width: 100%;
+    background-image: linear-gradient(top blue skyblue);
+    border-radius: 0% 0% 50% 50%;
+    transform: scaleX(1);
+
+}
+.intro{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(231, 118, 25);
+}
+.b1{
+    color: rgb(236, 119, 24);
+    font-size: xx-large;
+}
+span{
+    color: tomato;
+}
+.a1{
+    color:rgb(206, 103, 20);
+    font-size: xx-large;
+}
+.enter{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+   
+}
+.ip{
+    width: 50%;   
+    color: rgb(245, 56, 22);
+}
+.cut{
+    width: 200px;
+    height: 400px;
+    margin: 10%;
+    
+}
