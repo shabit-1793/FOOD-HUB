@@ -25,8 +25,9 @@ transform: scaleX(1);
 .order{
     text-decoration:none;
     padding: 10px 40px;
-    background-color: magenta;
+    background-color: #ff00ff;
     border-radius: 20px;
+    letter-spacing: 2px;
 }
 .flx{
     display: flex;
@@ -56,16 +57,20 @@ transform: scaleX(1);
     color:rgb(206, 103, 20);
     font-size: xx-large;
 }
+.c1{
+    color: saddlebrown;
+}
 .enter{
     display: flex;
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-position: left;
     background-repeat: no-repeat;
-    background-size: 100 
+    background-size: 100 ;
+    
 }
 .ip{
     width: 50%;   
-    color: rgb(245, 56, 22);
+    color: rgb(153, 33, 12);
     padding-left: 5%;
 }
 
@@ -73,8 +78,40 @@ transform: scaleX(1);
 .button{
     text-decoration: none;
     padding: 10px 40px;
-    background-color: teal;
+    background-color: rgb(207, 103, 34);
     border-radius: 20px;
+    letter-spacing: 2px;
     
 }
+.reserv{
+    display: flex;
+    background-image: url(images/bc/pinky2.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.table{
+    width:50%;
+    margin-left: 5%;
+
+   
+    
+}
+.res{
+    color:tomato;
+    font-size: xx-large;
+
+}
+.discount{
+    color:sienna;
+    font-size: x-large;
+}
+.ses{
+    text-decoration: none;
+    background-color: saddlebrown;
+    padding:10px 40px;
+    border-radius: 20px;
+    letter-spacing: 2px;
+}
+
     
