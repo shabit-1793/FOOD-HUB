@@ -9,7 +9,7 @@ body{
    
 }
 .hey{
-background-color: tomato;
+    background: linear-gradient(45deg, rgb(135, 122, 255), tomato);
 border-radius: 50% 50% 50% 50%;
 transform: scaleX(1);
   
@@ -27,7 +27,7 @@ transform: scaleX(1);
 .order{
     text-decoration:none;
     padding: 10px 40px;
-    background-color: #ff00ff;
+    background: linear-gradient(45deg, rgb(73, 50, 243), tomato);
     border-radius: 20px;
     letter-spacing: 2px;
 }
@@ -80,7 +80,7 @@ transform: scaleX(1);
 .button{
     text-decoration: none;
     padding: 10px 40px;
-    background-color: rgb(207, 103, 34);
+    background: linear-gradient(45deg, rgb(135, 122, 255), rgb(214, 127, 13));
     border-radius: 20px;
     letter-spacing: 2px;
     
@@ -110,7 +110,7 @@ transform: scaleX(1);
 }
 .ses{
     text-decoration: none;
-    background-color: saddlebrown;
+    background: linear-gradient(45deg, rgb(135, 122, 255), rgb(58, 12, 4));
     padding:10px 40px;
     border-radius: 20px;
     letter-spacing: 2px;
@@ -142,14 +142,15 @@ transform: scaleX(1);
 }  
 .recipies{
     box-shadow: 5px 5px 5px 5px;
-    color: rgb(252, 44, 7);
+    background: linear-gradient(45deg, rgb(135, 122, 255), rgb(78, 21, 11));
     width: 33%;
     margin-left: 10px;
     margin-bottom: 5px;
     margin-right: 5px;
     margin-top:5px;
     padding-left: 10px;
-    border-radius: 20px;
+    border-radius: 20px ;
+    border-radius
     
 }  
 .facebook{
@@ -172,6 +173,6 @@ span{
 footer{
     font-size: x-large;
     color: tomato;
-    background-color: black;
+    background: linear-gradient(45deg, rgb(135, 122, 255), tomato);
     text-align: center;
-}
+} 
