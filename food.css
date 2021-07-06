@@ -21,7 +21,9 @@ transform: scaleX(1);
 #fo
     {
     color: tomato;
+  
 }
+
 .order{
     text-decoration:none;
     padding: 10px 40px;
@@ -127,7 +129,7 @@ transform: scaleX(1);
 }
 .o1{
     padding-top: 5%;
-    width: 80%%;
+    width: 80%; 
     height: 200px ;
     
 }
@@ -150,3 +152,26 @@ transform: scaleX(1);
     border-radius: 20px;
     
 }  
+.facebook{
+    color: brown;
+    font-size: x-large;
+    text-align: center;
+    width: 33%;
+}
+.follow{
+    display:flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+
+}
+span{
+    color: cyan;
+}
+footer{
+    font-size: x-large;
+    color: tomato;
+    background-color: black;
+    text-align: center;
+}
