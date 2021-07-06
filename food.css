@@ -113,5 +113,40 @@ transform: scaleX(1);
     border-radius: 20px;
     letter-spacing: 2px;
 }
-
+.items{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(71, 255, 71);
+    background-image: url(images/bc/bc2.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#ems{
+    font-size: x-large;
+}
+.o1{
+    padding-top: 5%;
+    width: 80%%;
+    height: 200px ;
     
+}
+.list{
+    display: flex;
+    background-image: url(images/bc/pinky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:left ;
+}  
+.recipies{
+    box-shadow: 5px 5px 5px 5px;
+    color: rgb(252, 44, 7);
+    width: 33%;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-top:5px;
+    padding-left: 10px;
+    border-radius: 20px;
+    
+}  
